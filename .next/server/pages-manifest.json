@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/write/[number]/edit": "pages/write/[number]/edit.js",
+  "/write/list": "pages/write/list.js",
+  "/write/[number]": "pages/write/[number].js",
+  "/write": "pages/write.js",
+  "/write/new": "pages/write/new.js"
+}
