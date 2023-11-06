@@ -11,12 +11,19 @@
 
 ## ⚙️개발 환경
 React : "18.2.0",
+
 data-base : firestore,
+
 린터(정적 분석 도구) : eslint - "8.50.0",
+
 패키지 매니저 : yarn,
+
 버전 관리 시스템/형상 관리 시스템 : github,
+
 CSS-in-JS : Styled-Component,
+
 TypeScript : "5.2.2",
+
 번들러 : webpack
 
 ## 개발 환경 설치 과정
